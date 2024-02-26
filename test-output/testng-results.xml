@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-23T19:42:18 IST" name="Default suite" finished-at="2024-02-23T19:43:11 IST" duration-ms="53555">
+    <groups>
+    </groups>
+    <test started-at="2024-02-23T19:42:18 IST" name="Default test" finished-at="2024-02-23T19:43:11 IST" duration-ms="53555">
+      <class name="page.object.DataProvider">
+        <test-method signature="login(java.lang.String,java.lang.String)[pri:0, instance:page.object.DataProvider@15aab8c6]" started-at="2024-02-23T19:42:18 IST" name="login" data-provider="getLoginData" finished-at="2024-02-23T19:42:25 IST" duration-ms="6670" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Arjun]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[test]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="login(java.lang.String,java.lang.String)[pri:0, instance:page.object.DataProvider@15aab8c6]" started-at="2024-02-23T19:42:25 IST" name="login" data-provider="getLoginData" finished-at="2024-02-23T19:42:33 IST" duration-ms="7896" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Arun]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[test]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="login(java.lang.String,java.lang.String)[pri:0, instance:page.object.DataProvider@15aab8c6]" started-at="2024-02-23T19:42:33 IST" name="login" data-provider="getLoginData" finished-at="2024-02-23T19:42:43 IST" duration-ms="10122" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Athira]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[test]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="login(java.lang.String,java.lang.String)[pri:0, instance:page.object.DataProvider@15aab8c6]" started-at="2024-02-23T19:42:43 IST" name="login" data-provider="getLoginData" finished-at="2024-02-23T19:42:53 IST" duration-ms="10125" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Manoj]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[test]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="login(java.lang.String,java.lang.String)[pri:0, instance:page.object.DataProvider@15aab8c6]" started-at="2024-02-23T19:42:53 IST" name="login" data-provider="getLoginData" finished-at="2024-02-23T19:43:11 IST" duration-ms="18162" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Sreelakshmi]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[test]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- page.object.DataProvider -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
